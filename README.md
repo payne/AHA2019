@@ -20,3 +20,13 @@
 4. Northeast Room Becoming a Social Developer: A Guide for Introverts Jeremy Clark
 5. Southeast Room Securing Your CI/CD Pipeline Mike Douglas
 
+
+## Session 3 11:00a - 12:00p
+
+1. Center Stage AHA Sessions Beth Laing
+1. Southwest Room Zero to Community Hero - Start Live Coding on Twitch Jeff Fritz
+2. Northwest Room Secure by Design Matt Busche
+3. Executive Boardroom A Hero's Journey: Manual Tester to Automation QA Alison Hawke
+4. Northeast Room Closing the Fidelity Gap with UI Engineering Simon Yost
+5. Southeast Room Leadership Journey: From Software Developer to Leader Michael Eaton
+
