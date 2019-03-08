@@ -53,4 +53,12 @@
 
 
 
+## Session 6 4:00p - 5:00p
+
+1. Center Stage 
+1. Southwest Room NgRx: Redux-style State Management in Angular Sandi Barr
+2. Northwest Room Fear, Pain, and Loathing: Empathizing with your Users' Plight Ash Banaszek
+3. Executive Boardroom Inverting the Management Relationship Greg Dick
+4. Northeast Room Model Management: The Least You Can Do Thomas Cleberg
+5. Southeast Room Something's Rotten in the State of Quality Kathy I Andersen & Nicholas Tuck 
 
