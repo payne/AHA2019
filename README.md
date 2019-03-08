@@ -3,6 +3,7 @@
 
 
 1. Session 1 8:30a - 9:30a
+
    a. Southwest Room Mapping the User's Journey Courtney Heitman
    b. Northwest Room Using Tests as a Tool to Wrangle Legacy Projects Jason Swett
    c. Executive Boardroom Lean Quality Delivery Herb Scrugs & Michael McGee 
