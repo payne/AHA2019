@@ -3,17 +3,6 @@
 Fork this at [https://github.com/payne/AHA2019/](https://github.com/payne/AHA2019/)
 
 
-## Session 3 11:00a - 12:00p
-
-1. Center Stage AHA Sessions Beth Laing
-1. Southwest Room Zero to Community Hero - Start Live Coding on Twitch Jeff Fritz
-2. Northwest Room Secure by Design Matt Busche
-3. Executive Boardroom A Hero's Journey: Manual Tester to Automation QA Alison Hawke
-4. Northeast Room Closing the Fidelity Gap with UI Engineering Simon Yost
-5. Southeast Room Leadership Journey: From Software Developer to Leader Michael Eaton
-
-
-
 ## Session 4 1:30p - 2:30p
 
 1. Center Stage AHA Sessions Jeff Fritz & Scot Ringenberg
@@ -32,7 +21,6 @@ Fork this at [https://github.com/payne/AHA2019/](https://github.com/payne/AHA201
 3. Executive Boardroom -- This talk intentionally left blank
 4. Northeast Room .NET Yesterday, Today, and Tomorrow Javier Lozano
 5. Southeast Room Thinking About React, Atomically Katia Wheeler
-
 
 
 ## Session 6 4:00p - 5:00p
@@ -65,5 +53,15 @@ Fork this at [https://github.com/payne/AHA2019/](https://github.com/payne/AHA201
 3. Executive Boardroom You've Lost That Loving Feeling. Leverage a DevOps mindset to scale your start-up culture.  Andy Liakos & Levi Liester
 4. Northeast Room Becoming a Social Developer: A Guide for Introverts Jeremy Clark
 5. Southeast Room Securing Your CI/CD Pipeline Mike Douglas
+
+
+## Session 3 11:00a - 12:00p
+
+1. Center Stage AHA Sessions Beth Laing
+1. Southwest Room Zero to Community Hero - Start Live Coding on Twitch Jeff Fritz
+2. Northwest Room Secure by Design Matt Busche
+3. Executive Boardroom A Hero's Journey: Manual Tester to Automation QA Alison Hawke
+4. Northeast Room Closing the Fidelity Gap with UI Engineering Simon Yost
+5. Southeast Room Leadership Journey: From Software Developer to Leader Michael Eaton
 
 
