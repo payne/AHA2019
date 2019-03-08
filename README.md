@@ -42,5 +42,15 @@
 5. Southeast Room AI Doesn't Have to Be Hard Charlie Koster
 
 
+## Session 5 2:45p - 3:45p
+
+1. Center Stage AHA Sessions John Henry Müller& Michelle Mras
+1. Southwest Room How to Work with People: A Guide to Playing Nicely with Others Arthur Doler
+2. Northwest Room Grow The Future With Internship 2.0 Patrick Wolff
+3. Executive Boardroom -- This talk intentionally left blank
+4. Northeast Room .NET Yesterday, Today, and Tomorrow Javier Lozano
+5. Southeast Room Thinking About React, Atomically Katia Wheeler
+
+
 
 
