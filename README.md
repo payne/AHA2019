@@ -30,3 +30,17 @@
 4. Northeast Room Closing the Fidelity Gap with UI Engineering Simon Yost
 5. Southeast Room Leadership Journey: From Software Developer to Leader Michael Eaton
 
+
+
+## Session 4 1:30p - 2:30p
+
+1. Center Stage AHA Sessions Jeff Fritz & Scot Ringenberg
+1. Southwest Room From Color Palette to Color System John Henry Müller
+2. Northwest Room Health: The Most Important Dev Tool Cassandra Faris
+3. Executive Boardroom Winning the War on Bureaucracy Jerry Koske
+4. Northeast Room Why Do They Do That?  Michelle Mras
+5. Southeast Room AI Doesn't Have to Be Hard Charlie Koster
+
+
+
+
