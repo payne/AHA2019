@@ -2,14 +2,6 @@
 
 Fork this at [https://github.com/payne/AHA2019/](https://github.com/payne/AHA2019/)
 
-## Session 1 8:30a - 9:30a
-
-1. Southwest Room Mapping the User's Journey Courtney Heitman
-2. Northwest Room Using Tests as a Tool to Wrangle Legacy Projects Jason Swett
-3. Executive Boardroom Lean Quality Delivery Herb Scrugs & Michael McGee 
-4. Northeast Room Bootstrap Your App with AWS Amplify!  Mat Warger
-5. Southeast Room Overcoming Delay: How The Best Developers Increase Productivity Paul Gower
-
 
 ## Session 2 9:45a - 10:45a
 
@@ -61,4 +53,16 @@ Fork this at [https://github.com/payne/AHA2019/](https://github.com/payne/AHA201
 3. Executive Boardroom Inverting the Management Relationship Greg Dick
 4. Northeast Room Model Management: The Least You Can Do Thomas Cleberg
 5. Southeast Room Something's Rotten in the State of Quality Kathy I Andersen & Nicholas Tuck 
+
+
+# Done stuff
+
+## Session 1 8:30a - 9:30a
+
+1. Southwest Room Mapping the User's Journey Courtney Heitman
+2. Northwest Room Using Tests as a Tool to Wrangle Legacy Projects Jason Swett
+3. Executive Boardroom Lean Quality Delivery Herb Scrugs & Michael McGee 
+4. Northeast Room Bootstrap Your App with AWS Amplify!  Mat Warger
+5. Southeast Room Overcoming Delay: How The Best Developers Increase Productivity Paul Gower
+
 
