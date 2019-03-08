@@ -2,17 +2,6 @@
 
 Fork this at [https://github.com/payne/AHA2019/](https://github.com/payne/AHA2019/)
 
-
-## Session 5 2:45p - 3:45p
-
-1. Center Stage AHA Sessions John Henry Mülle & Michelle Mras
-1. Southwest Room How to Work with People: A Guide to Playing Nicely with Others Arthur Doler
-2. Northwest Room Grow The Future With Internship 2.0 Patrick Wolff
-3. Executive Boardroom -- This talk intentionally left blank
-4. Northeast Room .NET Yesterday, Today, and Tomorrow Javier Lozano
-5. Southeast Room Thinking About React, Atomically Katia Wheeler
-
-
 ## Session 6 4:00p - 5:00p
 
 1. Center Stage 
@@ -22,6 +11,7 @@ Fork this at [https://github.com/payne/AHA2019/](https://github.com/payne/AHA201
 4. Northeast Room Model Management: The Least You Can Do Thomas Cleberg
 5. Southeast Room Something's Rotten in the State of Quality Kathy I Andersen & Nicholas Tuck 
 
+# Please stay for the happy hour that starts at 5pm -- Let's connect! :-)
 
 # Done stuff
 
@@ -63,4 +53,15 @@ Fork this at [https://github.com/payne/AHA2019/](https://github.com/payne/AHA201
 3. Executive Boardroom Winning the War on Bureaucracy Jerry Koske
 4. Northeast Room Why Do They Do That?  Michelle Mras
 5. Southeast Room AI Doesn't Have to Be Hard Charlie Koster
+
+
+## Session 5 2:45p - 3:45p
+
+1. Center Stage AHA Sessions John Henry Mülle & Michelle Mras
+1. Southwest Room How to Work with People: A Guide to Playing Nicely with Others Arthur Doler
+2. Northwest Room Grow The Future With Internship 2.0 Patrick Wolff
+3. Executive Boardroom -- This talk intentionally left blank
+4. Northeast Room .NET Yesterday, Today, and Tomorrow Javier Lozano
+5. Southeast Room Thinking About React, Atomically Katia Wheeler
+
 
